@@ -3,3 +3,8 @@
 
 [functions]
   directory = "api"
+
+[[redirects]]
+  from = "/"
+  to = "/doterra-manager.html"
+  status = 200
