@@ -1,0 +1,14 @@
+[build]
+  functions = "api"
+
+[[redirects]]
+  from = "/*"
+  to = "/doterra-manager.html"
+  status = 200
+```
+
+5. **Commit**
+
+Oppure **prova ad aprire direttamente**:
+```
+https://radiant-churros-e183b7.netlify.app/doterra-manager.html
