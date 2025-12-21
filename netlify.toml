@@ -1,7 +1,5 @@
 [build]
-  functions = "api"
+  publish = "."
 
-[[redirects]]
-  from = "/"
-  to = "/doterra-manager.html"
-  status = 200
+[functions]
+  directory = "api"
